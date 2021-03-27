@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "banky_mobile",
-    "slug": "banky_mobile",
+    "name": "kolo",
+    "slug": "kolo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/piggybank.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/piggybank.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,7 +23,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "app.ellisoncorp.kolo",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"

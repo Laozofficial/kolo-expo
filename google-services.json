@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "385828312154",
+        "project_id": "kolo-308904",
+        "storage_bucket": "kolo-308904.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:385828312154:android:1c8f53667b5a4082d07463",
+            "android_client_info": {
+                "package_name": "com.ellisoncorp.kolo"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "385828312154-b6cmttl5kiu885qejk9cetkbhtdfk8lq.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyBVR3HQG1FEZDy13Z5IAw4mQpMtIrZv-4g"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "385828312154-b6cmttl5kiu885qejk9cetkbhtdfk8lq.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
